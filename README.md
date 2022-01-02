@@ -1,5 +1,4 @@
 ### <h2><b>Oiê, sou Safyra Helenn Dos Santos<b>🖖🏽<br></h2>
-<!--- <audio src="https://www.youtube.com/watch?v=ZhstyJSNKME" autoplay="autoplay"> -->
 
 <font size="13px"><font face="arial">
 🇧🇷 Brasília, DF<br>
@@ -27,7 +26,7 @@
 <br>
   <a href="https://github.com/DarkSaphyra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarkSaphyra&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSaphyra&layout=compact&langs_count=7&theme=aura"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSaphyra&layout=compact&langs_count=7&theme=aura"/>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkSaphyra)](https://git.io/streak-stats)
 
@@ -39,5 +38,3 @@
 "mailto: saphyrascarlat@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=light-blue" target="_blank"></a>
   <a href="https://www.linkedin.com/in/safyra-helenn-dos-santos-b449b1218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Safyra14382038363&count=1)
