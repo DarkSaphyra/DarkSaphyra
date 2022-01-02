@@ -1,8 +1,7 @@
 ### <h2><b>Oiê, sou Safyra Helenn Dos Santos<b>🖖🏽<br></h2>
 
-<font size="13px"><font face="arial">
 🇧🇷 Brasília, DF<br>
-•| Designer na área de banco de dados💾🖍 <br>
+•| Trabanhando com banco de dados💾🖍 <br>
 •| Tentando ter foco🎯 <br>
 •| Zumbi do curso de SI🧟‍♀️💻 <br>
 •| Estudando: 
