@@ -1,9 +1,9 @@
 ### <h2><b>Oiê, sou Safyra Helenn Dos Santos<b>🖖🏽<br></h2>
 
 🇧🇷 Brasília, DF<br>
-•| Trabanhando com banco de dados💾🖍 <br>
+•| Trabanhando com suporte 😉 <br>
 •| Tentando ter foco🎯 <br>
-•| Zumbi do curso de SI🧟‍♀️💻 <br>
+•| Sobrevivente do curso de SI🧟‍♀️💻 <br>
 •| Estudando: 
 
   <div>
